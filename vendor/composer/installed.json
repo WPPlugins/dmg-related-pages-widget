@@ -1,0 +1,35 @@
+[
+    {
+        "name": "DMG/WP_Widget_Base",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://dgifford@bitbucket.org/dgifford/wp_widget_base.git",
+            "reference": "31b1907bc589d131b3c0571bbc8ee4e957e1396f"
+        },
+        "time": "2016-08-19 15:05:09",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "DMG\\WP_Widget_Base\\": "src/"
+            }
+        },
+        "license": [
+            "GPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Dan Gifford",
+                "email": "dan@dancoded.com",
+                "homepage": "http://dancoded.com",
+                "role": "Developer"
+            }
+        ],
+        "keywords": [
+            "Wordpress",
+            "widget"
+        ]
+    }
+]
